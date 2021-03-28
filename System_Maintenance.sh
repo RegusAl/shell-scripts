@@ -8,4 +8,4 @@ apt-get -y upgrade
 apt-get -y autoremove
 apt-get autoclean
 
-echo -e "\n$(date "+%T") \t Script Terminated..."
+echo -e "\n$(date "+%T") --- \t Script Terminated...\n"
