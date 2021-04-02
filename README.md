@@ -13,4 +13,4 @@
 - Extract the `zip folder`
 - Open in terminal:
     - `chmod a+x <name of file>.sh`
-    - `./<name of file>.sh`(or `sudo ./<name of file>.sh` - some commands need root access)
+    - `./<name of file>.sh` or `sudo ./<name of file>.sh` (some commands need root access)
