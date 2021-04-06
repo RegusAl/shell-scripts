@@ -13,4 +13,5 @@ apt-get autoclean
 
 echo -e "\n$(date "+%d-%m-%Y --- %T") --- Script Terminated...\n"
 
+#logo
 neofetch
