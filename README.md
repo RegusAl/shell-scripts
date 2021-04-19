@@ -4,6 +4,8 @@
     - updates the system and removes old files;
 2. [findfiles.sh](https://github.com/RegusAl/shell-scripts/blob/main/findfiles.sh)
     - finds files based on input;
+3. [finddirectory.sh](https://github.com/RegusAl/shell-scripts/blob/main/finddisrectory.sh)
+    - finds directory based on input;
 
 
 
