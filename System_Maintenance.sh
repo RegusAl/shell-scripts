@@ -1,6 +1,4 @@
 #!/bin/bash
-
-
 echo -e "\n$(date "+%d-%m-%Y --- %T") --- Starting Work...\n"
 
 #update && upgrade
