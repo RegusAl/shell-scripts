@@ -12,7 +12,7 @@
 
 ## Installation
 
-- [Download the zip file](https://github.com/RegusAl/shell-scripts/archive/refs/heads/main.zip)
+- [Download the zip file](https://github.com/RegusAl/shell-scripts/archive/refs/heads/main.zip) or `git clone https://github.com/RegusAl/shell-scripts`
 - Extract the `zip folder`
 - Open in terminal:
     - `chmod +x <name of file>.sh`
